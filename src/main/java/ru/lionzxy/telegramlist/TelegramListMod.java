@@ -11,8 +11,8 @@ import ru.lionzxy.telegramlist.handlers.LogAboutMessage;
 
 @Mod(name = TelegramListMod.NAME, modid = TelegramListMod.MODID, version = TelegramListMod.VERSION)
 public class TelegramListMod {
-    public static final String NAME = "Telegram WhiteList Mod";
-    public static final String MODID = "telegramlist";
+    public static final String NAME = "Telegram Minecraft Bot";
+    public static final String MODID = "telegrambot";
     public static final String VERSION = "1.0";
     private static MainLoop mainLoop;
 
